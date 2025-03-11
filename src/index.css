@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button{
+  cursor: pointer;
+  padding: 6px 10px;
+  margin: 7px 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #4CAF50;
+}
+
+.contactlist{
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid;
+  padding: 10px;
+  background: #25a7d2;
+  border-radius: 20px;
+}
+.inputcot{
+  padding: 10px;
+  margin: 10px;
+} 
+.btn{
+  cursor: pointer;
+  padding: 6px 10px;
+  margin: 7px 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: darkred;
+}
